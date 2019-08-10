@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tilda-test/static/css/main.09159c81.chunk.css",
+    "main.js": "/tilda-test/static/js/main.f83d74f5.chunk.js",
+    "main.js.map": "/tilda-test/static/js/main.f83d74f5.chunk.js.map",
+    "runtime~main.js": "/tilda-test/static/js/runtime~main.a673f031.js",
+    "runtime~main.js.map": "/tilda-test/static/js/runtime~main.a673f031.js.map",
+    "static/css/2.764ccc25.chunk.css": "/tilda-test/static/css/2.764ccc25.chunk.css",
+    "static/js/2.35ee83cb.chunk.js": "/tilda-test/static/js/2.35ee83cb.chunk.js",
+    "static/js/2.35ee83cb.chunk.js.map": "/tilda-test/static/js/2.35ee83cb.chunk.js.map",
+    "index.html": "/tilda-test/index.html",
+    "precache-manifest.80f48683e42b77f0aa48e8f9c7afb372.js": "/tilda-test/precache-manifest.80f48683e42b77f0aa48e8f9c7afb372.js",
+    "service-worker.js": "/tilda-test/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/tilda-test/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.09159c81.chunk.css.map": "/tilda-test/static/css/main.09159c81.chunk.css.map",
+    "static/media/cart-options.scss": "/tilda-test/static/media/arrow.708809d8.svg",
+    "static/media/cart-product.scss": "/tilda-test/static/media/close.93293365.svg",
+    "static/media/eastwood-done.png": "/tilda-test/static/media/eastwood-done.e52b22a7.png"
+  }
+}
